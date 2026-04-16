@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Linear Regression (T2 baseline),1.0336,1.5816,0.9378
+Decision Tree (T2),1.7851,2.6911,0.82
+Random Forest (T4),1.1778,2.0627,0.8942
+Gradient Boosting (T4),0.8355,1.4905,0.9448
