@@ -31,7 +31,7 @@ This project builds a complete machine learning pipeline to predict NBA player s
 
 ```bash
 git clone https://github.com/kuandykovnk2001-afk/ML-midterm-project.git
-cd [your-repo-name]
+
 ```
 
 ### 2. Install dependencies
