@@ -80,7 +80,6 @@ jupyter notebook notebooks/T4_Ensemble.ipynb
 | Random Forest (100 trees, max_depth=10) | — | — | — |
 | Gradient Boosting (100 est., lr=0.1) | — | — | — |
 
-> Fill in exact ensemble values from `reports/all_model_results.csv` after running T4.
 
 Ensemble models improve over the Decision Tree and show marginal gains over the Linear Regression baseline. `cluster_label` (player role segment from T3) contributed positively to feature importance in both ensemble models.
 
